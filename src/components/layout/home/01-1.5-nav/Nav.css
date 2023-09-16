@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul button{
+    background: transparent;
+    border: none;
+    width: 80px;
+    height: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul button:hover{
+    border: solid rgb(68, 68, 252) 2px;
+    border-radius: 10px;
+}
+
+ul a{
+    font-weight: 800;
+    text-decoration: none;
+    color: #f2f2f2;
+}

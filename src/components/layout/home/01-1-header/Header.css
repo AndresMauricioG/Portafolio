@@ -1,0 +1,22 @@
+.Header{
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 15vh;
+    background-color: #272727;
+    padding-right: 10%;
+    padding-left: 10%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Header h2{
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: rgb(68, 68, 252);
+}
+
+.Nav{
+    width: 25%;
+}

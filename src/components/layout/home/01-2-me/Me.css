@@ -1,0 +1,43 @@
+.me{
+    max-width: 90%;
+    margin: 2% 5% 2% 5%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #272727;
+    border-radius: 40px;
+    padding-right: 20px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.image{
+    width: 350px;
+    height: 350px;
+}
+
+.info {
+    max-width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.info span{
+    font-size: 40px;
+    color:  #f2f2f2;
+}
+
+.info h2{
+    font-size: 35px;
+    color: rgb(68, 68, 252);
+}
+
+.info p{
+    height: 60%;
+    color: white;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+
+
